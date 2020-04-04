@@ -1,19 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>http://zincaaa.github.io</id>
+    <id>https://zincaaa.github.io/rainfallband.github.io/</id>
     <title>下雨乐队</title>
-    <updated>2020-04-04T08:04:51.444Z</updated>
+    <updated>2020-04-04T08:07:25.077Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
-    <link rel="alternate" href="http://zincaaa.github.io"/>
-    <link rel="self" href="http://zincaaa.github.io/atom.xml"/>
+    <link rel="alternate" href="https://zincaaa.github.io/rainfallband.github.io/"/>
+    <link rel="self" href="https://zincaaa.github.io/rainfallband.github.io/atom.xml"/>
     <subtitle>^_^</subtitle>
-    <logo>http://zincaaa.github.io/images/avatar.png</logo>
-    <icon>http://zincaaa.github.io/favicon.ico</icon>
+    <logo>https://zincaaa.github.io/rainfallband.github.io/images/avatar.png</logo>
+    <icon>https://zincaaa.github.io/rainfallband.github.io/favicon.ico</icon>
     <rights>All rights reserved 2020, 下雨乐队</rights>
     <entry>
         <title type="html"><![CDATA[新的文章开始]]></title>
-        <id>http://zincaaa.github.io/post/xin-de-wen-zhang-kai-shi/</id>
-        <link href="http://zincaaa.github.io/post/xin-de-wen-zhang-kai-shi/">
+        <id>https://zincaaa.github.io/rainfallband.github.io/post/xin-de-wen-zhang-kai-shi/</id>
+        <link href="https://zincaaa.github.io/rainfallband.github.io/post/xin-de-wen-zhang-kai-shi/">
         </link>
         <updated>2020-04-04T08:02:56.000Z</updated>
         <content type="html"><![CDATA[<p>这是内容内容</p>
