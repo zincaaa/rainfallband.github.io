@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://zincaaa.github.io</id>
-    <title>Gridea</title>
-    <updated>2020-04-04T07:54:19.535Z</updated>
+    <title>下雨乐队</title>
+    <updated>2020-04-04T07:54:35.445Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://zincaaa.github.io"/>
     <link rel="self" href="https://zincaaa.github.io/atom.xml"/>
-    <subtitle>温故而知新</subtitle>
+    <subtitle>^_^</subtitle>
     <logo>https://zincaaa.github.io/images/avatar.png</logo>
     <icon>https://zincaaa.github.io/favicon.ico</icon>
-    <rights>All rights reserved 2020, Gridea</rights>
+    <rights>All rights reserved 2020, 下雨乐队</rights>
     <entry>
         <title type="html"><![CDATA[NEW]]></title>
         <id>https://zincaaa.github.io/post/new/</id>
